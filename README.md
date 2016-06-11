@@ -17,23 +17,25 @@ Die Technik
 - Raspberry 3 mit NoIR Camera
 - GoQR API - http://goqr.me/de/api/
 
+Die App
+-------
+![alt tag](http://vps229531.ovh.net/wp-content/uploads/2016/06/Unbenannt.png)
+
 Probleme
 -------
-Es gab in der App zum ende der Entwicklung ein Problem das 
-nicht behoben werden konnte!
-Dieses Problem hat keine Logische Herkunft noch Lösung also 
-wissen weder wir noch befrage Mentoren was wir tun sollen!
+Es gibt nun eine Abgespeckte version der App da weitere Feature durch größere 
+Probleme (siehe Bild) verhindert wurden und aufgrund der beschränkten zeit auch 
+nicht mehr Lösbar waren. Alle wichtigen Grundfunktionen sind vorhanden.
 
 Außerdem hatte es am Ende auch Probleme mit Github gegeben 
 und deswegen kann es vorkommen das die Projektmappe (von der
-App) nicht mehr lesbar ist oder einzelene Dateien fehlen!
+App) nicht mehr lesbar ist oder das einzelene Dateien fehlen!
 
-Grundlegende und Wichtige Scripte und Codestellen sind alle vorhanden!!!
+Alle grundlegenden und wichtigen Scripte und Codestellen sind vorhanden!!!
 
-Hier ein Bild!
+Hier das Bild!
 
 
 ![alt tag](http://vps229531.ovh.net/wp-content/uploads/2016/06/Unbenannt.png)
 
-Nein meine Lizens ist nicht Abgelaufen und ich glaube auch nicht das das Projekt
-ohne Fremd einfluss in allen Versionen plötzlich seine Datei größe verändert!
+
