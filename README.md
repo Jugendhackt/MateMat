@@ -19,7 +19,7 @@ Die Technik
 
 Die App
 -------
-![alt tag](http://vps229531.ovh.net/wp-content/uploads/2016/06/Unbenannt.png)
+![alt tag](http://fs5.directupload.net/images/160611/4ib4gmwe.png)
 
 Probleme
 -------
