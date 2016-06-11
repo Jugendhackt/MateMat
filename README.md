@@ -18,6 +18,13 @@ nicht behoben werden konnte!
 Dieses Problem hat keine Logische Herkunft noch Lösung also 
 wissen weder wir noch befrage Mentoren was wir tun sollen!
 
+Außerdem hatte es am Ende auch Probleme mit Github gegeben 
+und deswegen kann es vorkommen das die Projektmappe (von der
+App) nicht mehr lesbar ist oder einzelene Dateien fehlen!
+
+Grundlegende und Wichtige Scripte und Codestellen sind alle vorhanden!!!
+
 Hier ein Bild!
--------
+
+
 ![alt tag](http://vps229531.ovh.net/wp-content/uploads/2016/06/Unbenannt.png)
