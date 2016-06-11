@@ -28,3 +28,5 @@ Hier ein Bild!
 
 
 ![alt tag](http://vps229531.ovh.net/wp-content/uploads/2016/06/Unbenannt.png)
+Nein meine Lizens ist nicht Abgelaufen und ich glaube auch nicht das das Projekt
+ohne Fremd einfluss in allen Versionen plötzlich seine Datei größe verändert!
