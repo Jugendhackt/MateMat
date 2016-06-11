@@ -38,4 +38,5 @@ Hier das Bild!
 
 ![alt tag](http://vps229531.ovh.net/wp-content/uploads/2016/06/Unbenannt.png)
 
-
+Das Problem mit der Lizens ist plötzlich ohne Code veränderung aufgetaucht, 
+auch reverts haben das Problem nicht gelöst.
