@@ -2,7 +2,7 @@ DER MATEMAT
 =============
 Ein Mate Automat für JH Nord 2016!
 Wir haben uns überlegt wie man die Mate vergabe den Mentoren
-vereinfachen (oder auch erschweren) können!
+vereinfachen (oder auch erschweren) kann!
 
 Das Team
 -------
