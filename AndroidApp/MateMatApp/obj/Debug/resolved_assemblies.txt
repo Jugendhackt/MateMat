@@ -1,9 +1,0 @@
-C:\Users\Malte\Documents\GitHub\JH_NORD_2016\MateMatApp\MateMatApp\obj\Debug\assemblies\MateMatApp.dll
-C:\Users\Malte\Documents\GitHub\JH_NORD_2016\MateMatApp\MateMatApp\obj\Debug\assemblies\Mono.Android.dll
-C:\Users\Malte\Documents\GitHub\JH_NORD_2016\MateMatApp\MateMatApp\obj\Debug\assemblies\mscorlib.dll
-C:\Users\Malte\Documents\GitHub\JH_NORD_2016\MateMatApp\MateMatApp\obj\Debug\assemblies\System.Core.dll
-C:\Users\Malte\Documents\GitHub\JH_NORD_2016\MateMatApp\MateMatApp\obj\Debug\assemblies\System.dll
-C:\Users\Malte\Documents\GitHub\JH_NORD_2016\MateMatApp\MateMatApp\obj\Debug\assemblies\System.Xml.dll
-C:\Users\Malte\Documents\GitHub\JH_NORD_2016\MateMatApp\MateMatApp\obj\Debug\assemblies\System.Xml.Linq.dll
-C:\Users\Malte\Documents\GitHub\JH_NORD_2016\MateMatApp\MateMatApp\obj\Debug\assemblies\System.Runtime.Serialization.dll
-C:\Users\Malte\Documents\GitHub\JH_NORD_2016\MateMatApp\MateMatApp\obj\Debug\assemblies\System.ServiceModel.Internals.dll

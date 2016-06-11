@@ -1,4 +1,0 @@
-MateMatApp.MainActivity, MateMatApp;md58d81f8243ac022000691f75f17b73781.MainActivity
-MateMatApp.MainActivity, MateMatApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58d81f8243ac022000691f75f17b73781.MainActivity
-MateMatApp.MainActivity;md58d81f8243ac022000691f75f17b73781.MainActivity
-matematapp.MainActivity;md58d81f8243ac022000691f75f17b73781.MainActivity

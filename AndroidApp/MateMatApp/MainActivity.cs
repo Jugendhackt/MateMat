@@ -16,8 +16,12 @@ namespace MateMatApp
         int profID = 0000;
         string qr_code_link;
 
-        private ImageView qrcode_v;
-
+        //VERBUGGTE VERSION
+        
+        //Diese Version hat keine Fehler im Code (Auch meinung von Mentoren)
+        //Es gibt einen License Fehler der ohne Grund aufgetaucht ist!
+        //Auch in älteren, sogar den ersten versionen der App taucht er plötzlich
+        //auf.
 
         protected override void OnCreate(Bundle bundle)
         {
@@ -25,10 +29,6 @@ namespace MateMatApp
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
-
-            
-            
-
 
             //link gen
             Button codeGenButton = FindViewById<Button>(Resource.Id.genCode);
@@ -51,8 +51,8 @@ namespace MateMatApp
             
         }
 
-        
-        
+
+        private ImageView qrcode_v;
 
 
 
