@@ -13,15 +13,15 @@ namespace MateMatApp
     [Activity(Label = "MateMatApp", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
-        int profID = 0000;
-        string qr_code_link;
-
         //VERBUGGTE VERSION
         
         //Diese Version hat keine Fehler im Code (Auch meinung von Mentoren)
         //Es gibt einen License Fehler der ohne Grund aufgetaucht ist!
         //Auch in älteren, sogar den ersten versionen der App taucht er plötzlich
         //auf.
+        
+        int profID = 0000;
+        string qr_code_link;
 
         protected override void OnCreate(Bundle bundle)
         {
@@ -47,14 +47,9 @@ namespace MateMatApp
                 var imageBitmap = GetImageBitmapFromUrl(qr_code_link);
                 qrcode_v.SetImageBitmap(imageBitmap);
             };
-            
-            
         }
 
-
         private ImageView qrcode_v;
-
-
 
         //ImageBitMap Image Download
         //Source: http://goo.gl/Vmddut
@@ -72,7 +67,6 @@ namespace MateMatApp
             }
             return imageBitmap;
         }
-        
     }
 }
 
