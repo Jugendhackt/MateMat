@@ -8,7 +8,7 @@ Das Team
 -------
 - Tim Burmeister:   Logodesign 2D&3D, Raspberry Pi (Scanner)
 - Jan Moritz Meyer: Phyton (Scanner), Raspberry Pi (Scanner)
-- Dennis xtay:      Phyton (Scanner & UserID Generator)
+- Dennis xTay:      Phyton (Scanner & UserID Generator)
 - Malte Schink:     Android App (QR Code Generator), Github & Hackdash
 
 Die Technik
@@ -19,7 +19,7 @@ Die Technik
 
 Die App
 -------
-![alt tag](http://vps229531.ovh.net/wp-content/uploads/2016/06/Screenshot_2016-06-11sd0-59-15.png)
+![alt tag](http://fs5.directupload.net/images/160612/6un6st6p.png)
 
 Probleme
 -------
