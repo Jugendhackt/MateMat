@@ -38,5 +38,5 @@ Hier das Bild!
 
 ![alt tag](http://vps229531.ovh.net/wp-content/uploads/2016/06/Unbenannt.png)
 
-Das Problem mit der Lizens ist plötzlich ohne Code veränderung aufgetaucht, 
-auch reverts haben das Problem nicht gelöst.
+EDIT: Problem gelöst in dem man eine Nacht drüber geschlafen hat und morgens gemerkt
+      hat das man eine falsche dll eingebunden hat die zu groß war.
