@@ -16,6 +16,8 @@ Die Technik
 - Xamarin Android App (C#)
 - Raspberry 3 mit NoIR Camera
 - GoQR API - http://goqr.me/de/api/
+- python Anmeldescript mit zufälliger Profilnummer
+
 
 Die App
 -------
