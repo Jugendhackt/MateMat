@@ -1,5 +1,7 @@
 DER MATEMAT
 =============
+![](https://jhbadge.de/?evt=hh&year=2016)
+
 Ein Mate Automat für JH Nord 2016!
 Wir haben uns überlegt wie man die Mate vergabe den Mentoren
 vereinfachen (oder auch erschweren) kann!
